@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bggib11
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...idk yet 🤓
 - 🌱 I’m currently learning CCS + HTML
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Also TBD!
 - 📫 How to reach me: bridgetgracegibbons@gmail.com
 
 <!---
